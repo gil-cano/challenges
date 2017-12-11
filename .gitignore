@@ -8,3 +8,7 @@
 **sqlite
 .idea
 .DS_Store
+bin/
+include/
+lib/
+pip-*
