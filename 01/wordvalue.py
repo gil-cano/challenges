@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from data import DICTIONARY
 from data import LETTER_SCORES
 
@@ -33,4 +34,4 @@ def max_word_value(words=None):
 
 
 if __name__ == "__main__":
-    print max_word_value()
+    print(max_word_value())
